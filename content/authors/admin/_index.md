@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yikun Wang
+title: 王翊堃(Yikun Wang)
 
 # Is this the primary user of the site?
 superuser: true
